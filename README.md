@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seynax
-- 👀 I am interested in IT, digital and electronics development.
+- 👀 I am interested in computer development, digital and electronics.
 - 🌱 I am currently learning to use Vulkan under the LWJGL with Java
 - 📫 How to reach me: seyronax@gmail.com
 
