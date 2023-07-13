@@ -14,3 +14,6 @@
 
 ## My little organization
 - https://github.com/OnsieaStudio/
+
+## My public CV
+https://github.com/seynax/seynax/blob/main/CV_Seynax.pdf
