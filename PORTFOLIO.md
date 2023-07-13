@@ -7,7 +7,7 @@
 
 ## Individual projects
 - [UniverseCore mod](https://github.com/seynax/UniverseCore) : core mod for some minecraft mods
-- [Onsiea Engine](https://github.com/OnsieaStudio/OnsieaEngine) or formerly [Onsiea Engine OLD repository](https://github.com/seynax/Onsiea)
+- [Onsiea Engine](https://github.com/OnsieaStudio/OnsieaEngine) or formerly [Onsiea Engine OLD repository](https://github.com/seynax/Onsiea) : 2D-3D LWJGL game engine
 - [OnseaLogger](https://github.com/OnsieaStudio/OnseaLogger) : small logger that I use in my projects
 - [SourceLinker](https://github.com/OnsieaStudio/SourceLinker) : small tools that I use to link various libraries to my JAVA projects
 - [Minecraft forge porting tool](https://github.com/OnsieaStudio/Minecraft-Forge-Porting-Tool/blob/main/src/fr/onsiea/mfpt/Main.java) : tools to simplify the porting of a minecraft forge mod from one version to another [still in test to start the project, not even in the prototyping phase]
@@ -16,4 +16,4 @@
 - https://github.com/OnsieaStudio/
 
 ## My public CV
-https://github.com/seynax/seynax/blob/main/CV_Seynax.pdf
+https://github.com/seynax/seynax/blob/main/CV_Alexis-GUINOT_EN.pdf
