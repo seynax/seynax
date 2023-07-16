@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @seynax
-- 👀 I am interested in computer development, digital and electronics.
+# Seynax
+
+- 👀 I am interested in computer development, digital, electronics, sciences, botanic ...
 - 🌱 I am currently learning to use Vulkan under the LWJGL with Java
 - 📫 How to reach me: seynax@onsiea.com
 
-<!---
-seynax/seynax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Portfolio
+
+- https://github.com/seynax/seynax/blob/main/PORTFOLIO.md
